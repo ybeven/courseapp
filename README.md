@@ -13,4 +13,4 @@ The PHP Starter demonstrates a simple, reusable PHP web application.
 
 [PHP]: http://php.net/downloads.php
 
-
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy)
